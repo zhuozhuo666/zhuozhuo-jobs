@@ -1,5 +1,4 @@
 # zhuozhuo-jobs
-We're hiring Stable Diffusion experts!
 ## 【成都】招聘信息 成都卓拙科技有限公司
 
 ### 【卓拙简介】
