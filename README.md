@@ -1,5 +1,5 @@
 # zhuozhuo-jobs
-[AI工程师.md](AI工程师)
+[/zhuozhuo-jobs/blob/main/AI工程师.md](AI工程师)
 
 ## 【成都】招聘信息 成都卓拙科技有限公司
 
