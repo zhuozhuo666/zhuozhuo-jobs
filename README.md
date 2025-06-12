@@ -1,5 +1,6 @@
 # zhuozhuo-jobs
 [AI工程师](AI工程师.md)
+[HR](HR.md)
 
 ## 【成都】招聘信息 成都卓拙科技有限公司
 
