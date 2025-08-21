@@ -43,6 +43,6 @@
 
 【简历投递】
 - 官网招聘页/亦可查看更多详情：https://zhuozhuo.io/career
-- 邮件投递：jiangyueyuan@zhuozhuo.io（邮件名格式：网络协议工程师-姓名-GitHub）
+- 邮件投递：jiangyueyuan@zhuozhuo.io（邮件名格式：岗位-姓名-GitHub）
 
 ## [成都卓拙科技有限公司简介](README.md)
